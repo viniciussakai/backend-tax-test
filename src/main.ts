@@ -1,0 +1,1 @@
+require("@/infra/http/express");
